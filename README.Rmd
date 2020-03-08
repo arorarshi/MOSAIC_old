@@ -109,9 +109,9 @@ for(i in 1:length(cv.fit)){
 
 par(mfrow=c(1,2))
 par(bty="l")
-boxplot(spwss, names=2:7, col="coral", ylab="SPWSS", xlab="K clusters", main= "SPWSS",border="coral")
+boxplot(spwss, names=2:7, ylab="SPWSS", xlab="K clusters", main= "SPWSS",border="coral", lwd=1.5)
 
-boxplot(adjR, names=2:7, col="purple", ylab="adj RI", xlab="K clusters", main= "Adjusted Rand Index",border="purple")
+boxplot(adjR, names=2:7, ylab="adj RI", xlab="K clusters", main= "Adjusted Rand Index",border="purple", lwd=1.5)
 
 ```
 

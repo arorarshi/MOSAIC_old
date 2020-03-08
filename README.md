@@ -283,34 +283,6 @@ unsupervised clustering vs simulated truth
 
 <td style="text-align:right;">
 
-35
-
-</td>
-
-<td style="text-align:right;">
-
-20
-
-</td>
-
-<td style="text-align:right;">
-
-0
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align:left;">
-
-2
-
-</td>
-
-<td style="text-align:right;">
-
 0
 
 </td>
@@ -333,7 +305,7 @@ unsupervised clustering vs simulated truth
 
 <td style="text-align:left;">
 
-3
+2
 
 </td>
 
@@ -352,6 +324,34 @@ unsupervised clustering vs simulated truth
 <td style="text-align:right;">
 
 16
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;">
+
+3
+
+</td>
+
+<td style="text-align:right;">
+
+35
+
+</td>
+
+<td style="text-align:right;">
+
+20
+
+</td>
+
+<td style="text-align:right;">
+
+0
 
 </td>
 
